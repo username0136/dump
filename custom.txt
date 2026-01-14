@@ -1,2 +1,5 @@
 # Custom Blocklist
 *.airtelspam.com
+*.ads.phonepe.com
+*.ads-static.phonepe.com
+
