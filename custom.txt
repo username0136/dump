@@ -2,4 +2,4 @@
 *.airtelspam.com
 *.ads.phonepe.com
 *.ads-static.phonepe.com
-
+*.ads-janus.prod.navi-sa.in
