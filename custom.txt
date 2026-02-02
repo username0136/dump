@@ -1,5 +1,22 @@
 # Custom Blocklist
+
+# airtel internal reports
 *.airtelspam.com
+
+# airtel thanks app
+sentry.airtel.in
+digianalytics.airtel.in
+adconfig.wynk.in
+stats.wynk.in
+proxy.adtech.wynk.in
+
+# PhonePe Ads
 *.ads.phonepe.com
 *.ads-static.phonepe.com
+
+# Navi
 *.ads-janus.prod.navi-sa.in
+
+# Router malware protection
+*.domain.name
+*.bonussuc.com
